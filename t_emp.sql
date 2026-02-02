@@ -1,4 +1,4 @@
 use database demo;
 use schema public;
 
-create or repalce table t_emp(sno number);
+create or replace table t_emp(sno number);
